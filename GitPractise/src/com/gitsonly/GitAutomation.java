@@ -12,5 +12,10 @@ public class GitAutomation {
 	public void TestTwo(){
 		System.out.println("practicing GIT> testTwo");
 	}
+	// Newly Added by Hasan Vai
+	@Test
+	public void TestThree(){
+		System.out.println("Message: Practicing GIT --> testThree");
+	}
 
 }
