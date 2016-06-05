@@ -21,5 +21,10 @@ public class GitAutomation {
 	public void TestFour(){
 		System.out.println("Message: Practicing GIT --> testFour");
 	}
+	//New
+	@Test
+	public void TestFive(){
+		System.out.println("Message: Practicing GIT --> testFive");
+	}
 
 }
