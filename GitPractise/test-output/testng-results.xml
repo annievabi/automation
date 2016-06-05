@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="53" started-at="2016-06-02T01:48:39Z" finished-at="2016-06-02T01:48:39Z">
+  <suite name="Default suite" duration-ms="125" started-at="2016-06-05T21:25:07Z" finished-at="2016-06-05T21:25:07Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="53" started-at="2016-06-02T01:48:39Z" finished-at="2016-06-02T01:48:39Z">
+    <test name="Default test" duration-ms="125" started-at="2016-06-05T21:25:07Z" finished-at="2016-06-05T21:25:07Z">
       <class name="com.gitsonly.GitAutomation">
-        <test-method status="PASS" signature="TestOne()[pri:0, instance:com.gitsonly.GitAutomation@76ae34]" name="TestOne" duration-ms="16" started-at="2016-06-01T21:48:39Z" finished-at="2016-06-01T21:48:39Z">
+        <test-method status="PASS" signature="TestFive()[pri:0, instance:com.gitsonly.GitAutomation@76ae34]" name="TestFive" duration-ms="47" started-at="2016-06-05T17:25:07Z" finished-at="2016-06-05T17:25:07Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TestOne -->
+        </test-method> <!-- TestFive -->
       </class> <!-- com.gitsonly.GitAutomation -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
